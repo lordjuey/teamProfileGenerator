@@ -36,7 +36,7 @@
   node js
  
   ## Screen Shot 
-  
+  https://github.com/lordjuey/teamProfileGenerator/blob/master/Assets/Screen%20Shot%202020-08-09%20at%2011.39.30%20am.png
   
   ## Contributors 
   myself
